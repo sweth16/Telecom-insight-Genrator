@@ -4,6 +4,7 @@ Overview
 Telecom Insight Generator is an AI-powered network analytics platform that enables telecom operators to analyze network performance using natural language. Instead of writing SQL queries manually, users can interact with the system in plain English to retrieve telecom metrics, generate business insights, and detect network anomalies in real time.
 
 The platform combines Spring AI, Retrieval-Augmented Generation (RAG), Semantic Search, Google Gemini, Apache Kafka, and PostgreSQL (PGVector) to deliver intelligent, context-aware analytics on large-scale telecom datasets.
+
 LOGIN PAGE WITH OAUTH:
 
 <img width="1917" height="1077" alt="image" src="https://github.com/user-attachments/assets/2416ea1c-a83b-4267-8024-e7f63aa5a365" />
