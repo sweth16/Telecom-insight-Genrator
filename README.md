@@ -55,6 +55,7 @@ SETTINGS PAGE :
 AI GENERATED REPORT
 
 <img width="648" height="918" alt="Screenshot 2026-07-21 201347" src="https://github.com/user-attachments/assets/84018df1-564b-4362-8f01-c59771af22d9" />
+
 Conclusion
 
 Telecom Insight Generator demonstrates how Generative AI can transform traditional telecom analytics by combining natural language understanding, intelligent retrieval, real-time data streaming, and automated insight generation into a single scalable platform. The project showcases modern AI engineering practices through a full-stack implementation that bridges enterprise backend development, vector search, LLM integration, and interactive data visualization to simplify complex network analysis.
